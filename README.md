@@ -1,1 +1,1 @@
-# BigLeaderAiAcademy
+# BigLeaderAIAcademy
