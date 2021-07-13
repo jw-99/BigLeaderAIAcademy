@@ -1,9 +1,0 @@
-1625749508945	geckodriver	INFO	Listening on 127.0.0.1:63835
-1625749512018	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tkrhk\\AppData\\Local\\Temp\\rust_mozprofilemHuaoQ"
-1625749512370	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\tkrhk\\AppData\\Local\\Temp\\rust_mozprofilemHuaoQ\\search.json.mozlz4", (void 0)))
-1625749514417	Marionette	INFO	Listening on port 63843
-1625749514718	Marionette	WARN	TLS certificate errors will be ignored for this session
-JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
-1625749517551	Marionette	INFO	Stopped listening on port 63843
-JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
